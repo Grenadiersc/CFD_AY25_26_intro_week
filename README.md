@@ -2,4 +2,5 @@
 Demo to show git usage and integration with matlab
 
 ## To do List qdded 
-- [ ] modify readme
+- [ x] modify readme
+- [ ] add a clone to conect with Matlab
